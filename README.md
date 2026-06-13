@@ -175,7 +175,6 @@ An AI-powered form builder that generates complete forms from a text prompt. Com
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Note:** Replace `muneebsafdar` below with your actual GitHub username (e.g. `muneeb-ur-rehman` or whatever you used when signing up).
 
 <div align="center">
 
@@ -189,7 +188,7 @@ An AI-powered form builder that generates complete forms from a text prompt. Com
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=A78BFA&line=6C63FF&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muneebsafdar&bg_color=0D1117&color=A78BFA&line=6C63FF&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
