@@ -175,17 +175,17 @@ An AI-powered form builder that generates complete forms from a text prompt. Com
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Note:** Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username (e.g. `muneeb-ur-rehman` or whatever you used when signing up).
+> ⚠️ **Note:** Replace `muneebsafdar` below with your actual GitHub username (e.g. `muneeb-ur-rehman` or whatever you used when signing up).
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=A78BFA&text_color=c9d1d9"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muneebsafdar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=A78BFA&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebsafdar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=A78BFA&currStreakLabel=6C63FF"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=muneebsafdar&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=A78BFA&currStreakLabel=6C63FF"/>
 </div>
 
 <div align="center">
